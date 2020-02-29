@@ -1,0 +1,49 @@
+body {
+    font-family: Roboto Condensed, sans-serif;
+}
+.flapper {
+    margin-top: -50px;
+}
+
+.flapper.enabled .digit div {
+    color: #42f56c;
+    padding: 0px;
+    background-color: black;
+}
+
+.flapper.disabled .digit div {
+    color: #e32d19;
+    padding: 0px;
+    background-color: black;
+}
+.line {
+    display: inline;
+}
+
+p {
+    display: inline-block;
+    font-size: 41px;
+}
+
+#number {
+    margin-left: 125px;
+}
+
+#destination {
+    margin-left: 100px;
+}
+#arrival {
+    margin-left: 370px;
+}
+
+#notes {
+margin-left: 110px;
+}
+
+span {
+    display: block;
+}
+
+.subtext {
+    font-size: 28px;
+}

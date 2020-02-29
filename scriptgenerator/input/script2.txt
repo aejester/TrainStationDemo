@@ -1,0 +1,340 @@
+8590
+14:30
+Champ de Mars
+4
+A L’Heure
+8620
+14:31
+Chatelet-les-Halles
+2
+A L’Heure
+8084
+14:35
+Bercy Metro
+6
+A L’Heure
+7653
+14:48
+Gare du Nord
+8
+Retard 5m
+8413
+14:59
+Grenoble
+21
+Retard 2m
+3441
+15h03
+Bercy Metro
+14
+A L’Heure
+**
+8590
+14:30
+Champ de Mars
+4
+Arrivant
+8620
+14:31
+Chatelet-les-Halles
+2
+A L’Heure
+8084
+14:35
+Bercy Metro
+6
+A L’Heure
+7653
+14:48
+Gare du Nord
+8
+Retard 5m
+8413
+14:59
+Grenoble
+21
+Retard 2m
+3441
+15h03
+Bercy Metro
+14
+A L’Heure
+**
+8620
+14:31
+Chatelet-les-Halles
+2
+Arrivant
+8084
+14:35
+Bercy Metro
+6
+A L’Heure
+7653
+14:48
+Gare du Nord
+8
+Retard 5m
+8413
+14:59
+Grenoble
+21
+Retard 2m
+3441
+15h03
+Bercy Metro
+14
+A L’Heure
+8412
+15h07
+Le Mans
+12
+A L’Heure
+**
+8084
+14:35
+Bercy Metro
+6
+A L’Heure
+7653
+14:48
+Gare du Nord
+8
+Retard 5m
+8413
+14:59
+Grenoble
+21
+Retard 2m
+3441
+15h03
+Bercy Metro
+14
+A L’Heure
+8412
+15h07
+Le Mans
+12
+A L’Heure
+7656
+15h10
+Nantes
+5
+A L’Heure
+**
+8695
+15:45
+Saint-Michel
+9
+A L’Heure
+8027
+15h48
+Milano
+22
+A L’Heure
+7115
+15h59
+Bercy Metro
+19
+A L’Heure
+6458
+16h02
+Laroche
+11
+Retard 6m
+8231
+16h08
+Nice
+4
+A L’Heure
+4331
+16h11
+Bordeaux
+5
+Retard 8m
+**
+8695
+15:45
+Saint-Michel
+9
+Arrivant
+8027
+15h48
+Milano
+22
+A L’Heure
+7115
+15h59
+Bercy Metro
+19
+A L’Heure
+6458
+16h02
+Laroche
+11
+Retard 6m
+8231
+16h08
+Nice
+4
+A L’Heure
+4331
+16h11
+Bordeaux
+5
+Retard 8m
+**
+8027
+15h48
+Milano
+22
+A L’Heure
+7115
+15h59
+Bercy Metro
+19
+A L’Heure
+6458
+16h02
+Laroche
+11
+Retard 6m
+8231
+16h08
+Nice
+4
+A L’Heure
+4331
+16h11
+Bordeaux
+5
+Retard 8m
+9262
+16h17
+Gare de Lyon
+26
+Retard 1m
+**
+8695
+15:45
+Saint-Lazare
+1
+A L’Heure
+8027
+15h48
+Laroche
+22
+A L’Heure
+7115
+15h59
+Marseille
+19
+A L’Heure
+6458
+16h02
+Lyon
+11
+Retard 6m
+8231
+16h08
+Bercy Metro
+4
+A L’Heure
+4331
+16h11
+Chatelet-les-Halles
+5
+Retard 8m
+**
+8695
+15:45
+Saint-Lazare
+1
+Arrivant
+8027
+15h48
+Laroche
+22
+A L’Heure
+7115
+15h59
+Marseille
+19
+A L’Heure
+6458
+16h02
+Lyon
+11
+Retard 6m
+8231
+16h08
+Bercy Metro
+4
+A L’Heure
+4331
+16h11
+Chatelet-les-Halles
+5
+Retard 8m
+**
+8027
+15h48
+Laroche
+22
+Arrivant
+7115
+15h59
+Marseille
+19
+A L’Heure
+6458
+16h02
+Lyon
+11
+Retard 6m
+8231
+16h08
+Bercy Metro
+4
+A L’Heure
+4331
+16h11
+Chatelet-les-Halles
+5
+Retard 8m
+9262
+16h17
+Montpellier
+26
+Retard 1m
+**
+7115
+15h59
+Marseille
+19
+A L’Heure
+6458
+16h02
+Lyon
+11
+Retard 6m
+8231
+16h08
+Bercy Metro
+4
+A L’Heure
+4331
+16h11
+Chatelet-les-Halles
+5
+Retard 8m
+9262
+16h17
+Montpellier
+26
+Retard 1m
+2356
+16h19
+Hyeres
+12
+A L’Heure

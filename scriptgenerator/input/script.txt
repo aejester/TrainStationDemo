@@ -1,0 +1,340 @@
+6919
+14h30
+Grenoble
+1
+Départ
+6715
+14h32
+Gare De L’est
+5
+A L’Heure
+6577
+14h33
+Geneve
+15
+Retard 1m
+7907
+14h38
+Montpellier
+9
+A L’Heure
+6213
+14h47
+Nice
+4
+A L’Heure
+9249
+15h14
+Milano
+11
+Retard 6m
+**
+6715
+14h32
+Gare De L’est
+5
+Embarquement
+6577
+14h33
+Geneve
+15
+Retard 1m
+7907
+14h38
+Montpellier
+9
+A L’Heure
+6213
+14h47
+Nice
+4
+A L’Heure
+9249
+15h14
+Milano
+11
+Retard 6m
+6179
+15h20
+Hyeres
+2
+A L’Heure
+**
+6715
+14h32
+Gare De L’est
+5
+Embarquement
+6577
+14h33
+Geneve
+15
+Embarquement
+7907
+14h38
+Montpellier
+9
+A L’Heure
+6213
+14h47
+Nice
+4
+A L’Heure
+9249
+15h14
+Milano
+11
+Retard 6m
+6179
+15h20
+Hyeres
+2
+A L’Heure
+**
+6715
+14h32
+Gare De L’est
+5
+Départ
+6577
+14h33
+Geneve
+15
+Embarquement
+7907
+14h38
+Montpellier
+9
+A L’Heure
+6213
+14h47
+Nice
+4
+A L’Heure
+9249
+15h14
+Milano
+11
+Retard 6m
+6179
+15h20
+Hyeres
+2
+A L’Heure
+**
+1239
+15h44
+Hyeres
+16
+Départ
+1316
+15h47
+Lyon
+3
+Embarquement
+9114
+15h52
+Marseille
+10
+Retard Ind
+4813
+15h55
+Nice
+14
+A L’Heure
+7351
+16h01
+Saint-Michel
+9
+Retard 2m
+2492
+16h03
+Grenoble
+17
+A L’Heure
+**
+1316
+15h47
+Lyon
+3
+Embarquement
+9114
+15h52
+Marseille
+10
+Retard Ind
+4813
+15h55
+Nice
+14
+A L’Heure
+7351
+16h01
+Saint-Michel
+9
+Retard 2m
+2492
+16h03
+Grenoble
+17
+A L’Heure
+8569
+16h12
+Champ de Mars
+8
+Retard 9m
+**
+1316
+15h47
+Lyon
+3
+Départ
+9114
+15h52
+Marseille
+10
+Retard Ind
+4813
+15h55
+Nice
+14
+A L’Heure
+7351
+16h01
+Saint-Michel
+9
+Retard 2m
+2492
+16h03
+Grenoble
+17
+A L’Heure
+8569
+16h12
+Champ de Mars
+8
+Retard 9m
+**
+1239
+15h44
+Lyon
+16
+Départ
+1316
+15h47
+Anvers
+3
+A L’Heure
+9114
+15h52
+Saint-Lazare
+10
+Retard Ind
+4813
+15h55
+Grenoble
+14
+A L’Heure
+7351
+16h01
+Nice
+9
+Retard 2m
+2492
+16h03
+Lyon
+17
+A L’Heure
+**
+1316
+15h47
+Anvers
+3
+Embarquement
+9114
+15h52
+Saint-Lazare
+10
+Retard Ind
+4813
+15h55
+Grenoble
+14
+A L’Heure
+7351
+16h01
+Nice
+9
+Retard 2m
+2492
+16h03
+Lyon
+17
+A L’Heure
+8569
+16h12
+Champ de Mars
+8
+Retard 9m
+**
+1316
+15h47
+Anvers
+3
+Départ
+9114
+15h52
+Saint-Lazare
+10
+Retard Ind
+4813
+15h55
+Grenoble
+14
+A L’Heure
+7351
+16h01
+Nice
+9
+Retard 2m
+2492
+16h03
+Lyon
+17
+A L’Heure
+8569
+16h12
+Champ de Mars
+8
+Retard 9m
+**
+9114
+15h52
+Saint-Lazare
+10
+Retard Ind
+4813
+15h55
+Grenoble
+14
+A L’Heure
+7351
+16h01
+Nice
+9
+Retard 2m
+2492
+16h03
+Lyon
+17
+A L’Heure
+8569
+16h12
+Champ de Mars
+8
+Retard 9m
+6632
+16h16
+Bordeaux
+12
+A L’Heure
