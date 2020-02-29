@@ -8,7 +8,7 @@ var infoOptions = {
     padding: '&nbsp;',    // value to use for padding
     chars: null,          // array of characters that Flapper can display
     chars_preset: 'alphanum',  // 'num', 'hexnum', 'alpha' or 'alphanum'
-    timing: 500,          // the maximum timing for digit animation
+    timing: 250,          // the maximum timing for digit animation
     min_timing: 10,       // the minimum timing for digit animation
     threshhold: 100,      // the point at which Flapper will switch from
                           // simple to detailed animations
@@ -22,7 +22,7 @@ var options = {
     padding: '&nbsp;',    // value to use for padding
     chars: null,          // array of characters that Flapper can display
     chars_preset: 'alphanum',  // 'num', 'hexnum', 'alpha' or 'alphanum'
-    timing: 500,          // the maximum timing for digit animation
+    timing: 250,          // the maximum timing for digit animation
     min_timing: 10,       // the minimum timing for digit animation
     threshhold: 100,      // the point at which Flapper will switch from
                           // simple to detailed animations
