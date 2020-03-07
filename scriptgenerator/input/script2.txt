@@ -184,6 +184,7 @@ Bordeaux
 5
 Retard 8m
 **
+
 8027
 15h48
 Milano
@@ -215,63 +216,51 @@ Gare de Lyon
 26
 Retard 1m
 **
-8695
 15:45
 Saint-Lazare
 1
 A L’Heure
-8027
 15h48
 Laroche
 22
 A L’Heure
-7115
 15h59
 Marseille
 19
 A L’Heure
-6458
 16h02
 Lyon
 11
 Retard 6m
-8231
 16h08
 Bercy Metro
 4
 A L’Heure
-4331
 16h11
 Chatelet-les-Halles
 5
 Retard 8m
 **
-8695
 15:45
 Saint-Lazare
 1
 Arrivant
-8027
 15h48
 Laroche
 22
 A L’Heure
-7115
 15h59
 Marseille
 19
 A L’Heure
-6458
 16h02
 Lyon
 11
 Retard 6m
-8231
 16h08
 Bercy Metro
 4
 A L’Heure
-4331
 16h11
 Chatelet-les-Halles
 5
